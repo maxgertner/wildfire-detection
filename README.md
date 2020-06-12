@@ -1,2 +1,1 @@
 # wildfire-detection
-# wildfire-detection
